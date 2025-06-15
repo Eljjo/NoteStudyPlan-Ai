@@ -1,6 +1,6 @@
 # 🧠 NoteStudyPlan AI
 
-NoteStudyPlan AI to inteligentna aplikacja edukacyjna, która analizuje Twoje materiały PDF — takie jak **skrypty z wykładów** i **notatki ** — i automatycznie tworzy:
+NoteStudyPlan AI to inteligentna aplikacja edukacyjna, która analizuje Twoje materiały PDF — takie jak **skrypty z wykładów** i **notatki** — i automatycznie tworzy:
 
 - ✍️ Streszczenie materiałów
 - 📅 Personalizowany plan nauki
